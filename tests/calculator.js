@@ -23,7 +23,7 @@ it('subtraction test',function(){
     homepageObj.enterFirstNumber(3);
     homepageObj.enterSecondNumber(3);
     homepageObj.clickSubmitButton();
-    homepageObj.verifyResult('7');
+    homepageObj.verifyResult('8');
     
 
     
